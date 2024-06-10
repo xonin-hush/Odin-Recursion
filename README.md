@@ -10,6 +10,14 @@ Sixth project in "the odin project" JavaScript Course, it demonstrates recursion
 - Merge Sort
 - [Running js programs using node](https://github.com/nodejs/nodejs.dev/blob/aa4239e87a5adc992fdb709c20aebb5f6da77f86/content/learn/command-line/node-run-cli.en.md)
 
+## [5 Simple Steps for Solving Any Recursive Problem](https://youtu.be/ngCos392W4w)
+
+- What's the simples possible input?
+- Play around with the examples and visualize!
+- relate hard cases to simples cases
+- Generalize the pattern
+- Write code by combining recursive pattern with the base case
+
 ## Technologies used
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
