@@ -23,5 +23,4 @@ function mergeSort(array) {
     return [...result,...left,...right];
  }
  const array = [4, 1, 5, 2, 6, 3, 7, 8];
-//  console.log(mergeSort(array));
-console.log(merge([2,1],[5,6,3]))
+ console.log(mergeSort(array));
