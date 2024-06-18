@@ -1,4 +1,4 @@
-# Weather App
+# Odin-Recursion
 
 Sixth project in "the odin project" JavaScript Course, it demonstrates recursion. [The Odin Project-JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript).
 
